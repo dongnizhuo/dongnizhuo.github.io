@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Amy Zhuo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Amy Zhuo"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://dongnizhuo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,11 @@ repository               : "dongnizhuo/dongnizhuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Amy Zhuo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "B.A. in Education, Communities, and Organizations @ UW Research Associate @ UCI"
+  location         : "Irvine, CA"
+  email            : "dzhuo2@uci.edu" 
 
   # Academic websites
   academia         : # URL
